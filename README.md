@@ -48,7 +48,7 @@ admin.site.register(Employee,EmployeeAdmin)
 ## OUTPUT
 
 # server output
-![django output](https://user-images.githubusercontent.com/120194155/232563023-2240bfbd-ee52-4598-a380-138dc57612b3.png)
+![django output](./out.png)
 
 ## RESULT
 
